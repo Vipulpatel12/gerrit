@@ -7,7 +7,7 @@ def full_pyramid(n):
         # Print asterisks for the current row
         for k in range(1, 2*i):
             print("*", end="")
-            
         print()
+    print('done')
    
 full_pyramid(5)
