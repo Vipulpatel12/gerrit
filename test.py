@@ -9,5 +9,5 @@ def full_pyramid(n):
             print("*", end="")
             
         print()
-   
+print('done')
 full_pyramid(5)
